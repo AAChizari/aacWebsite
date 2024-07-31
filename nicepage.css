@@ -43040,6 +43040,11 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 7px 1151px 0 -169px;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-header .u-menu-1 {
   margin: -50px auto 14px;
 }
